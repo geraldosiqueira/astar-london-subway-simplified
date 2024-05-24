@@ -14,7 +14,7 @@ Border evaluation for time taken from goal to destination is considered with the
 This code was adapted from the Paris Subway Simplified Problem to consider the london map and the time as a factor, not the distance.
 
 
-**Output Exemple: From E5, Yellow => E7, Blue**
+**Output Exemple: From E5, Yellow => E7, Blue
 
 Busca A* no mapa de londres
 
@@ -52,4 +52,4 @@ Estações Expandidas 		: ['E5, Amarelo', 'E4, Amarelo', 'E4, Vermelho', 'E3, Ve
 Menor caminho 	: ['E5, Amarelo', 'E4, Amarelo', 'E4, Vermelho', 'E3, Vermelho', 'E3, Azul', 'E7, Azul']
 Numero de estações visitas 			: 6
 Distancia total percorrida 			: 17.3Km
-Tempo total da viagem 			: 31.950000000000003min
+Tempo total da viagem 			: 31.950000000000003min**
